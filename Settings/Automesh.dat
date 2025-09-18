@@ -1,0 +1,10 @@
+Mesh type: land
+Site grid refinement: NO
+Local grid refinement: YES
+Local grid depth(km): 8
+Depth mesh: Settings/grid/zDepth/90z.dat
+Topography file: Settings/grid/Topography/topo_0.dat
+Site expansion: 5
+Grid expansion: 0
+Mesh refinement: 0
+Initial value(log10): 2

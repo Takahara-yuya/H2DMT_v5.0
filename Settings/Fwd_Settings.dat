@@ -1,0 +1,7 @@
+Output result root: Result/
+Output tmp root: Result/tmp/fwd/
+Number of airlayer(TE): 12
+Height of airlayer(TE): -700 -350 -150 -90 -60 -30 -10 -5 -2 -1 -0.4 -0.1
+Horizontal expansion(fwd_only): 8
+Left expansion node: -350 -174.2  -74.2 -34.975 -10 -5 -2 -1
+Right expansion node: 1 2 5 10 34.975 74.2 174.2 350 

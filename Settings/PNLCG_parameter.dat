@@ -1,0 +1,20 @@
+Output Result Root: Result/
+Output Tmp Root: Result/tmp/mesh/
+Output LOGFILE Root: Result/Logfile.dat
+Static Shift: 0
+Regularization Trade-off: 100
+Damping Factor: 0.8
+Decreasing threshold(percent): 0.2
+Stabilizer Function: 1
+Focusing Parameter: 0.1
+Vertical Roughness: 0.5
+Smooth Depth_Weighting: 0
+Damping Gamma: 10000
+Error Floor: 5 5 5 5
+Target Miafit: 0
+Max Nls: 6
+Wolfe Parameter: 0.0001 0.9
+Precondition Type: 3
+Conjugate Type: 1
+Orthogonal control: 0
+Max Iteration: 100

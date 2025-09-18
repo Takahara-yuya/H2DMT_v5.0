@@ -1,0 +1,8 @@
+Polarization Mode: TM
+Mesh Method: Auto
+Forward or Inversion: Inv
+Forward Setting File: Settings/Fwd_Settings.dat
+Inversion Setting File: Settings/PNLCG_parameter.dat
+Mesh Setting File: Settings/Automesh.dat
+Observed Data File: Data/example/tem-in.dat
+Observed Site File: Data/example/site.dat
